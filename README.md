@@ -1,4 +1,4 @@
-# Hi, I'm Panchireddy Tejeswara Rao
+# Hi, I'm Panchireddy TejeswaraRao
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3500&pause=1000&color=1F6FEB&center=false&vCenter=true&width=800&lines=Computer+Science+and+Engineering+student+at+CBIT%2C+Hyderabad;Full+Stack+Developer+in+the+making;DSA+enthusiast+with+500%2B+LeetCode+problems+solved)
 
@@ -43,9 +43,9 @@ I have solved 500+ problems on LeetCode.
 
 ##Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejeswararao-panchireddy-178552322/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/160123749054/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/your-geeksforgeeks-id/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/panchiredzq7z/)
 [![Email](https://img.shields.io/badge/Email-panchireddyteja9%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:panchireddyteja9@gmail.com)
 ---
 

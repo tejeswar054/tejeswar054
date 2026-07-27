@@ -41,13 +41,12 @@ I have solved 500+ problems on LeetCode.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejeswar054&layout=compact&hide_border=true&theme=default)
 
-## Connect with Me
+##Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-id)
-[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/your-leetcode-id/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/160123749054/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/your-geeksforgeeks-id/)
-[![Email](https://img.shields.io/badge/Email-your.email@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
+[![Email](https://img.shields.io/badge/Email-panchireddyteja9%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:panchireddyteja9@gmail.com)
 ---
 
 Thanks for visiting my profile.

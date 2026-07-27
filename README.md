@@ -1,4 +1,4 @@
-# Hi, I'm Panchireddy TejeswaraRao
+# Hi, I'm Panchireddy Tejeswararao
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3500&pause=1000&color=1F6FEB&center=false&vCenter=true&width=800&lines=Computer+Science+and+Engineering+student+at+CBIT%2C+Hyderabad;Full+Stack+Developer+in+the+making;DSA+enthusiast+with+500%2B+LeetCode+problems+solved)
 

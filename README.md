@@ -88,9 +88,9 @@ public class Tejeswararao {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tejeswar054&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tejeswar054&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&include_all_commits=true"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejeswar054&layout=compact&hide_border=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejeswar054&layout=compact&hide_border=true&theme=tokyonight&langs_count=6"/>
 
 </div>
 
@@ -102,7 +102,15 @@ public class Tejeswararao {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejeswar054&theme=tokyo-night&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tejeswar054&theme=tokyonight" />
+
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tejeswar054&theme=tokyonight"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tejeswar054&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
 

@@ -17,14 +17,14 @@
 ```java
 public class Tejeswararao {
 
-    String name        = "Panchireddy Tejeswararao";
-    String college     = "CBIT, Hyderabad (CSE)";
-    String[] interests = {"Full Stack Development", "DSA", "Open Source"};
-    String[] stack     = {"Java", "Python", "JavaScript", "React", "Node.js", "MongoDB"};
-    int leetcodeSolved = 500; // and counting...
+    String  name     = "Panchireddy Tejeswararao";
+    String  college  = "CBIT, Hyderabad — CSE";
+    String  focus    = "Full Stack Dev | DSA | Open Source";
+    String  stack    = "Java · Python · JS · React · Node · MongoDB";
+    int     leetcode = 500; // and counting 🔥
 
     String motto() {
-        return "Build things that matter. Solve problems that challenge.";
+        return "Build things that matter.";
     }
 }
 ```
@@ -88,20 +88,21 @@ public class Tejeswararao {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tejeswar054&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejeswar054&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tejeswar054&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejeswar054&layout=compact&hide_border=true&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tejeswar054&hide_border=true&theme=tokyonight&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+<img src="https://streak-stats.demolab.com/?user=tejeswar054&hide_border=true&theme=tokyonight" />
 
 </div>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tejeswar054&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejeswar054&theme=tokyo-night&hide_border=true" />
 
 </div>
 
